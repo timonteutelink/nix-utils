@@ -1,0 +1,7 @@
+temp
+.direnv
+.devenv
+.pre-commit-config.yaml
+result
+.env
+test
